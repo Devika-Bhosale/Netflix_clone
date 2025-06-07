@@ -1,1 +1,2 @@
-# Netflix_clone
+# Netflix-Clone
+Created with CodeSandbox
